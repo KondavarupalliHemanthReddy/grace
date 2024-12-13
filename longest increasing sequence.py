@@ -10,3 +10,4 @@ for i in s[1:]:
         c+=1
     max_count=max(c,max_count)
 print(max_count)
+//print('done in just 15 min')
